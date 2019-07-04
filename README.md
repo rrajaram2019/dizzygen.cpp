@@ -1,4 +1,4 @@
-2 Background on dizzy numbers
+2) Background on dizzy numbers
 
 In other bases, dizzy numbers are those whose sum of digits squared becomes 1.
 
@@ -14,7 +14,7 @@ Thus we have a cycle (alternating between 2 base 3 and 11 base 3)
 
 and so the number is undizzy. However, if the cycle stops at 1 at any point the number is dizzy.
 
-3 The assignment: dizzyGenerator class
+3) The assignment: dizzyGenerator class
 
 Write a program dizzygen.cpp with a struct dizzyGenerator which has several methods as shown below:
 
@@ -49,5 +49,5 @@ Find the cycle of numbers that number ends up in for the specified base base.
 
 The default base is 10.
 
-4 Main
+4) Main
 The main program tests different numbers.
